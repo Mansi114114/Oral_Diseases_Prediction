@@ -4,8 +4,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-![Demo](images/output1.png)
-
 > 🚀 AI-powered system to detect oral diseases from images using transfer learning.
 
 ---
@@ -37,15 +35,3 @@ Users can upload an image and get:
 - TensorFlow / Keras  
 - OpenCV  
 - Gradio  
-
----
-
-## 📂 Project Structure
-```plaintext
-Oral-Disease-Prediction/
-├── images/
-│   ├── output1.png
-│   ├── output2.png
-├── oral_disease_prediction.ipynb
-├── requirements.txt
-└── README.md
