@@ -40,7 +40,9 @@ AI-powered system to detect **oral diseases from images** using **Deep Learning 
 ## ⚙️ Technologies Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,matplotlib,github"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,matplotlib" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
