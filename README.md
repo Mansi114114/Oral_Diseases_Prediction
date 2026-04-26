@@ -1,117 +1,82 @@
 # 🦷 Oral Disease Prediction using Deep Learning
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
+  <img src="https://img.shields.io/badge/Model-VGG16-orange"/>
+  <img src="https://img.shields.io/badge/DeepLearning-TensorFlow-blue"/>
+</p>
 
 ---
 
 ## 🚀 Overview
 
-This project is an AI-powered system that detects **oral diseases from images** using **Deep Learning and Transfer Learning techniques**.
-
-The model analyzes dental images and classifies them into different disease categories with high accuracy.
+AI-powered system to detect **oral diseases from images** using **Deep Learning & Transfer Learning**.
 
 ---
 
 ## 🎯 Objective
 
-* Detect oral diseases automatically from images
+* Detect oral diseases automatically
 * Assist in early diagnosis
-* Reduce dependency on manual inspection
+* Improve healthcare accessibility
 
 ---
 
 ## 📊 Dataset
 
-* 📁 Dataset: Teeth Dataset
-
-* 🧪 Classes:
-
-  * CaS
-  * CoS
-  * Gum
-  * MC
-  * OC
-  * OLP
-  * OT
-
-* 📈 Total Images: ~4000+
+* 📁 Teeth Dataset
+* 🧪 Classes: `CaS, CoS, Gum, MC, OC, OLP, OT`
+* 📈 ~4000+ images
 
 ---
 
 ## 🧠 Model Architecture
 
-### 🔹 1. CNN Model
-
-* Convolution Layers
-* MaxPooling
-* Dense Layers
-* Dropout (to prevent overfitting)
-
-### 🔹 2. Transfer Learning (VGG16)
-
-* Pre-trained on ImageNet
-* Feature extraction
-* Custom classification layers added
+* 🧩 CNN (Convolutional Neural Network)
+* 🔥 Transfer Learning using **VGG16**
 
 ---
 
 ## ⚙️ Technologies Used
 
-* 🐍 Python
-* 🤖 TensorFlow / Keras
-* 📊 NumPy, Matplotlib
-* ☁️ Google Colab
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,matplotlib,github"/>
+</p>
 
 ---
 
 ## 📈 Results
 
-* ✔️ Successfully classified 7 oral disease categories
-* ✔️ Improved accuracy using transfer learning
-* ✔️ Efficient preprocessing pipeline
-
----
-
-## 🖼️ Sample Workflow
-
-1. Load Dataset
-2. Preprocess Images
-3. Train CNN Model
-4. Apply Transfer Learning (VGG16)
-5. Evaluate Performance
+✔ Accurate classification of 7 oral diseases
+✔ Improved performance using transfer learning
 
 ---
 
 ## 📂 Project Structure
 
-```
+```bash
 Oral_Diseases_Prediction/
 │── README.md
 │── oral_diseases_model.ipynb
 │── dataset/
-│── images/
 ```
 
 ---
 
 ## 🔮 Future Improvements
 
-* 📱 Deploy as Mobile App
-* 🌐 Web-based interface
-* 📷 Real-time detection using camera
-* 📊 More dataset for better accuracy
+* 📱 Mobile App Integration
+* 🌐 Web Deployment
+* 📷 Real-time detection
 
 ---
 
-## 🙋‍♀️ Author
+## 👩‍💻 Author
 
 **Mansi Mishra**
-B.Tech CSE Student
 
 ---
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+Give this project a ⭐ if you like it!
