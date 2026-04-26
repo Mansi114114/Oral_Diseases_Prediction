@@ -54,16 +54,6 @@ AI-powered system to detect **oral diseases from images** using **Deep Learning 
 
 ---
 
-## 📂 Project Structure
-
-```bash
-Oral_Diseases_Prediction/
-│── README.md
-│── oral_diseases_model.ipynb
-│── dataset/
-```
-
----
 
 ## 🔮 Future Improvements
 
